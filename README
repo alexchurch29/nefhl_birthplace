@@ -1,0 +1,5 @@
+-save csv file* as birthplaces.csv in the same directory as forecaster_scraper.py
+-run forecaster_scraper.py
+-program scrapes the forecaster pages of each player and writes all player birthcountries to the csv file passed in step 1
+
+*file must a column with header 'url', which should include all forecaster urls for players whose birthplace is missing
