@@ -12,7 +12,7 @@ states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA",
           "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
           "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 
-provinces = ['Alta.', 'BC', 'MB','N.B.', 'NL', 'N.S.', 'NT', 'NU', 'Ont.', 'PE', 'QC', 'SK', 'YT']
+provinces = ['Alta.', 'B.C.', 'Man.','N.B.', 'N.L.', 'N.S.', 'N.W.T.', 'Nun.', 'Ont.', 'P.E.I.', 'Que.', 'Sask.', 'Yuk.']
 
 
 def get_url(url):
